@@ -38,5 +38,3 @@ To use this app:
 - Make sure to handle security and privacy aspects when implementing user authentication and chat features.
 
 For more details about Firebase services and Android app development, refer to the official [Firebase Documentation](https://firebase.google.com/docs) and [Android Documentation](https://developer.android.com/docs).
-
-Happy coding!
